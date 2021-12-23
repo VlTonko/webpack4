@@ -1,0 +1,13 @@
+body {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.userGit{
+    overflow: hidden;
+    background-size: cover;
+    margin: 10px;
+    max-width: 200px;
+    max-height: 200px;
+}
