@@ -59,6 +59,9 @@ function setUser(attribute, dataUser) {
   attribute.textContent = dataUser;
 }
 
+
+
+
 /*
 import '../styles/moviePage.css';
 require('../image/bg.jpg');

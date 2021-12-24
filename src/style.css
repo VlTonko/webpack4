@@ -11,3 +11,17 @@ body {
     max-width: 200px;
     max-height: 200px;
 }
+
+.popup{
+    display:none;
+}
+
+.container{
+    margin: 10% auto;
+}
+
+.userCart{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
